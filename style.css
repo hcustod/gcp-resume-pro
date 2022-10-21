@@ -17,5 +17,20 @@ h1 {
     text-align: center;
 }
 
+ul {
+    list-style: none;
+    
+}
 
+li {
+    text-align: justify;
+    padding: 2px;
+}
 
+body {
+    border: 2px;
+    border-color: black;
+    box-shadow: 2px;
+    border-style: groove;
+    padding: 10px;
+}
